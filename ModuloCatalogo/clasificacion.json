@@ -1,0 +1,184 @@
+[
+
+{
+  "pregunta": 3,
+  "clasificacion":"Habitacion",
+  "submodulos": [
+    { "Nombre": "Sala", "pinturas": [] },
+    { "Nombre": "Cocina", "pinturas": []} ,
+    { "Nombre": "Dormitorio", "pinturas": []},
+    { "Nombre": "Baño", "pinturas": []},
+    { "Nombre": "Oficina", "pinturas": [] },
+    { "Nombre": "Pasillo / Entrada", "pinturas": [] }
+  ]
+},
+
+
+
+{
+  "pregunta": 2,
+  "clasificacion": "Superficie",
+  "submodulos": [
+    { "Nombre": "Concreto / cemento", "pinturas": [] },
+    { "Nombre": "Ladrillo expuesto", "pinturas": [] },
+    { "Nombre": "Piedra natural", "pinturas": [] },
+    { "Nombre": "Madera", "pinturas": [] },
+    { "Nombre": "Metal", "pinturas": [] },
+    { "Nombre": "Ceramica / Porcelanato", "pinturas": [] }
+  ]
+},
+
+{
+  "pregunta": 20,
+  "clasificacion": "Emocion",
+  "submodulos": [
+    { "Nombre": "Tranquilidad / Relajacion", "pinturas": [] },
+    { "Nombre": "Energia / Vitalidad", "pinturas": [] },
+    { "Nombre": "Calidez / Confort", "pinturas": []},
+    { "Nombre": "Creatividad / Inspiracion", "pinturas": [] },
+    { "Nombre": "Elegancia / Sofisticacion", "pinturas": [] },
+    { "Nombre": "Frescura / Ligereza", "pinturas": [] },
+    { "Nombre": "Alegria / Optimismo", "pinturas": [] }
+  ]
+},
+
+
+{
+  "pregunta": 23,
+  "clasificacion": "Estacion",
+  "submodulos": [
+    { "Nombre": "Otono", "pinturas": [] },
+    { "Nombre": "Primavera", "pinturas": [] },
+    { "Nombre": "Verano", "pinturas": [] },
+    { "Nombre": "Invierno", "pinturas": []}
+  ]
+},
+
+{
+  "pregunta": 24,
+  "clasificacion": "Entorno",
+  "submodulos": [
+    { "Nombre": "Natural / Organico", "pinturas": []},
+    { "Nombre": "Moderno / Minimalista", "pinturas": [] },
+    { "Nombre": "Calido / Acogedor", "pinturas": [] },
+    { "Nombre": "Rustico / Tradicional", "pinturas": [] },
+    { "Nombre": "Nordico / Escandinavo", "pinturas": []},
+    { "Nombre": "Industrial / Urbano", "pinturas": [] }
+  ]
+},
+
+
+
+{
+  "pregunta": 25,
+  "clasificacion": "Estilo Decorativo",
+  "submodulos": [
+    { "Nombre": "Clasico", "pinturas": []},
+    { "Nombre": "Vintage", "pinturas": [] },
+    { "Nombre": "Bohemio", "pinturas": [] },
+    { "Nombre": "Contemporaneo", "pinturas": [] },
+    { "Nombre": "Mediterraneo", "pinturas": [] },
+    { "Nombre": "Eclectico", "pinturas": [] }
+  ]
+},
+
+
+
+{
+  "pregunta": 21,
+  "clasificacion": "Profesion",
+  "submodulos": [
+    { "Nombre": "Ejecutivo", "pinturas": [] },
+    { "Nombre": "Disenador / artista", "pinturas": [] },
+    { "Nombre": "Ingeniero / tecnico", "pinturas": [] },
+    { "Nombre": "Maestro / educativo", "pinturas": []},
+    { "Nombre": "Programador / desarrollador / IT", "pinturas": [] },
+    { "Nombre": "Salud / medico / terapeuta", "pinturas": [] },
+    { "Nombre": "Emprendedor / start-up / coworking", "pinturas": [] },
+    { "Nombre": "Escritorio personal", "pinturas": [] },
+    { "Nombre": "Cientifico", "pinturas": [] },
+    { "Nombre": "Arquitecto", "pinturas": []},
+    { "Nombre": "Musico", "pinturas": [] }
+  ]
+},
+
+
+{
+  "pregunta": 22,
+  "clasificacion": "Hobbies / Gustos Personales",
+  "submodulos": [
+    { "Nombre": "Cine", "pinturas": []},
+    { "Nombre": "Fotografia", "pinturas":[] },
+    { "Nombre": "Viajes / aventura", "pinturas": []},
+    { "Nombre": "Deporte / fitness", "pinturas": []},
+    { "Nombre": "Naturaleza / jardineria", "pinturas": [] },
+    { "Nombre": "Tecnologia / gaming", "pinturas": [] },
+    { "Nombre": "Moda / diseno", "pinturas": [] },
+    { "Nombre": "Animales / mascotas", "pinturas": [] },
+    { "Nombre": "Meditacion / bienestar", "pinturas": [] },
+    { "Nombre": "Coleccionismo / nostalgia", "pinturas": [] },
+    { "Nombre": "Automoviles / mecanica", "pinturas": [] }
+  ]
+},
+
+
+
+{
+  "pregunta": 30,
+  "clasificacion": "Armonia con el entorno natural",
+  "submodulos": [
+    { "Nombre": "Rustico natural", "pinturas": [] },
+    { "Nombre": "Mediterraneo", "pinturas": [] },
+    { "Nombre": "Tropical", "pinturas": [] },
+    { "Nombre": "Zen / Asiatico", "pinturas": [] },
+    { "Nombre": "Bohemio natural", "pinturas": [] },
+    { "Nombre": "Ecologico", "pinturas": [] }
+  ]
+},
+
+{
+  "pregunta": 31,
+  "clasificacion": "Estilo Arquitectonico",
+  "submodulos": [
+    { "Nombre": "Moderno", "pinturas": [] },
+    { "Nombre": "Contemporaneo", "pinturas": [] },
+    { "Nombre": "Minimalista", "pinturas": [] },
+    { "Nombre": "Industrial", "pinturas": [] },
+    { "Nombre": "Clasico", "pinturas": [] },
+    { "Nombre": "Colonial", "pinturas": [] },
+    { "Nombre": "Urbano / Ciudad", "pinturas": [] },
+    { "Nombre": "Vintage / Retro", "pinturas": [] },
+    { "Nombre": "Eclectico", "pinturas": [] }
+  ]
+},
+
+
+{
+  "pregunta": 32,
+  "clasificacion": "Estilo Estacional",
+  "submodulos": [
+    { "Nombre": "Primavera", "pinturas": []},
+    { "Nombre": "Verano", "pinturas": [] },
+    { "Nombre": "Otono", "pinturas": [] },
+    { "Nombre": "Invierno", "pinturas": [] }
+  ]
+},
+
+
+{
+  "pregunta": 33,
+  "clasificacion": "Resaltar Identidad",
+  "submodulos": [
+    { "Nombre": "Colores vivos / llamativos", "pinturas": [] },
+    { "Nombre": "Contrastes marcados", "pinturas": [] },
+    { "Nombre": "Tonos elegantes / sobrios", "pinturas": []},
+    { "Nombre": "Detalles decorativos destacados", "pinturas": [] }
+  ]
+}
+]
+
+
+
+
+
+

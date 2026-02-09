@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Interactivo</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Enlace css -->
+     <link rel="stylesheet" href="pruebaTEST.css">
+     <!-- jQuery -->
+     <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+     integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+     crossorigin="anonymous"></script>
+</head>
+<body>
+     <!-- Titulo -->
+    <h1 class="fw-bold text-primary" 
+    style=" align-items: center; margin-left: 550px ; margin-bottom: 20px; margin-top: 20px;">TEST INTERACTIVO</h1>
+    <!-- Seccion de preguntas -->
+    <div id="Preguntas" style="margin-top: 20px; "></div>
+
+     <!-- Modal Finalizacion del test -->
+    <div class="modal" tabindex="-1" id="aviso_final">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Ha finalizado el test</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Presione el boton finalizar para recibir las recomendaciones.</p>
+        <p>Si no esta seguro con sus respuestas puede presionar</p>
+        <p>El boton Continuar</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="EliminarUltimoDato()">Continuar</button>
+        <button type="button" class="btn btn-primary" onclick="MostrarResultados();">Finalizar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Archivo javascript -->
+<script src="pruebaTEST.js"></script>
+
+</body>
+</html>

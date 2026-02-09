@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+            background-color: #e0f7fa; /* Fondo mas agradable */
+    }
+
+     
+    /*Estilo de los Cards*/
+         .card:hover {
+            transform: scale(1.05);
+            transition: 0.3s;
+            cursor: pointer;
+        }
+       .card img {
+            object-fit: cover;
+            height: 250px;
+        }
+         .option-label {
+            display: block;
+            text-align: center;
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        .options-container {
+            justify-content: center;
+            gap: 20px;
+        }
+
+
+/*Tipo de fuente*/
+ h4, h1{
+ font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
